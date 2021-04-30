@@ -23,6 +23,7 @@ public class EnumTest01 {
             return EnumDemo.FAIL;
         }
     }
+
 }
 /*枚举类型可以一步一步列举出来
 * 枚举编译之后也生成class文件
